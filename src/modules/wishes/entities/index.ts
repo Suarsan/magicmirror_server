@@ -1,0 +1,1 @@
+export { WishesList } from './wisheslist.entity';
